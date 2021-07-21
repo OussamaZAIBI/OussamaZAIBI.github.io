@@ -228,7 +228,7 @@
     ===================================*/
 
     function myMap() {
-        var myCenter = new google.maps.LatLng(40.7128, -74.0059);
+        var myCenter = new google.maps.LatLng(33.886917, 9.537499);
         var mapCanvas = document.getElementById("map");
         var mapOptions = { center: myCenter, zoom: 5, scrollwheel: false };
         var map = new google.maps.Map(mapCanvas, mapOptions);
