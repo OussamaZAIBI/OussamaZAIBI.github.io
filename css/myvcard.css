@@ -377,7 +377,7 @@ ol {
   display: block;
   width: 2px;
   height: inherit;
-  background: #202020;
+  background: #fff;
   position: absolute;
   top: 0;
   transition: transform .3s ease, margin .3s ease,  height .3s ease,  left .3s .3s ease,  background .3s ease;
